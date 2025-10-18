@@ -1,5 +1,5 @@
 {
-  "name": "SpendWise AI",
+  "name": "SpendWise",
   "description": "An intelligent personal finance manager that helps you track your spending in EUR or VND. Set weekly and monthly limits, get real-time currency conversion, and use the AI-powered bill scanner to add expenses effortlessly. All your data is saved securely on your device.",
   "requestFramePermissions": [
     "camera"

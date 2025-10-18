@@ -70,7 +70,7 @@ const App: React.FC = () => {
       <header className="bg-white dark:bg-slate-800 shadow-md">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
           <h1 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white">
-            SpendWise <span className="text-emerald-500">AI</span>
+            SpendWise
           </h1>
           <div className="flex items-center space-x-2 sm:space-x-4">
             <button

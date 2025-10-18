@@ -15,7 +15,7 @@ const NoteBoard: React.FC<NoteBoardProps> = ({ onDismiss }) => {
       >
         <CloseIcon className="h-5 w-5" />
       </button>
-      <h3 className="font-bold text-lg mb-2">Welcome to SpendWise AI!</h3>
+      <h3 className="font-bold text-lg mb-2">Welcome to SpendWise!</h3>
       <p className="text-sm">
         Here are a few tips to get you started:
       </p>
